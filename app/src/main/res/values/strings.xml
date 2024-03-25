@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Hello</string>
+    <string name="app_name">The best app</string>
+    <string name="app_text">This is the best app</string>
 </resources>
